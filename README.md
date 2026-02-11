@@ -9,6 +9,10 @@ and working on the datasets to get the grip of Excel itself.
 
 The datasets were sourced from www.kaggle.com.
 
+## Tools Udsed
+
+The work was carried out using Microsoft Excel.
+
 ## Pictures from the week
 
 <img width="641" height="310" alt="week1" src="https://github.com/user-attachments/assets/ac7570e9-56a5-4fa2-b8a9-12bd05883561" />
