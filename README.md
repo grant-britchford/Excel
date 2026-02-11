@@ -9,7 +9,7 @@ and working on the datasets to get the grip of Excel itself.
 
 The datasets were sourced from www.kaggle.com.
 
-## Tools Udsed
+## Tools Used
 
 The work was carried out using Microsoft Excel.
 
